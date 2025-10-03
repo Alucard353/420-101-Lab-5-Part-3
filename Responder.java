@@ -163,6 +163,12 @@ public class Responder
     }
 
     /**
+     * 
+     */
+    public HashMap<String,String> getResponseMap() {
+        return responseMap;
+    }
+    /**
      * Randomly select and return one of the default responses.
      * @return     A random default response
      */
