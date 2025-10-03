@@ -29,6 +29,8 @@ public class SupportSystem
         counter = new WordCounter();
     }
 
+
+    
     /**
      * Start the technical support system. This will print a welcome message and enter
      * into a dialog with the user, until the user ends the dialog.
@@ -52,6 +54,7 @@ public class SupportSystem
             }
         }
         printGoodbye();
+        
     }
 
     /**

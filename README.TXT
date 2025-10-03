@@ -27,3 +27,14 @@ Then start describing your problem by typing in the terminal window.
 
 The purpose of this project is to demonstrate and study library classes, such 
 as ArrayList, HashMap, HashSet, and Random.
+
+
+
+
+
+
+**********************  Anwsers  **********************
+Q43: If the behavior if key exists then it does nothing, however if the behavior key doesn't exist then it will insert a new key value
+Q44
+
+
