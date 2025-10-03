@@ -35,6 +35,6 @@ as ArrayList, HashMap, HashSet, and Random.
 
 **********************  Anwsers  **********************
 Q43: If the behavior if key exists then it does nothing, however if the behavior key doesn't exist then it will insert a new key value
-Q44
-
-
+Q47: Some prime examples would ve @author, @version, or @param are all examples of javadoc key symbols.
+Q48: Some other javadoc key symbols are, @since which indicates the version of the API in which a class or method first appeared.
+@code renders it's content in a code font.
